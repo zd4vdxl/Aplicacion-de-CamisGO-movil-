@@ -1,0 +1,4 @@
+sv.org.arrupe.tiendacamisetas.test.app-androidTest-0 C:\Users\LENOVO\Downloads\TiendaCamisetasApp\app\build\generated\res\resValues\androidTest\debug
+sv.org.arrupe.tiendacamisetas.test.app-mergeDebugAndroidTestResources-1 C:\Users\LENOVO\Downloads\TiendaCamisetasApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+sv.org.arrupe.tiendacamisetas.test.app-mergeDebugAndroidTestResources-2 C:\Users\LENOVO\Downloads\TiendaCamisetasApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+sv.org.arrupe.tiendacamisetas.test.app-debugAndroidTest-3 C:\Users\LENOVO\Downloads\TiendaCamisetasApp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
